@@ -1,5 +1,5 @@
 # image_processing
-|HW1|HW2|HW3|HW4|HW6|HW6|HW7|
+|HW1|HW2|HW3|HW4|HW5|HW6|HW7|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |✔️|✔️|✔️|✔️||||
 
