@@ -43,7 +43,7 @@
 - Midpoint Filter
 - Alpha-Trimmed Mean Filter
 
-# 2023/
+# 2023/12/05
 ## Practice 6
 ### Sharpening Filters
 - Spatial High-Pass Filter
