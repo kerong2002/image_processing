@@ -52,7 +52,7 @@
 - Spatial High-Pass Filter
 - Spatial High-Boost Filter
 
-# 2023/
+# 2023/12/19
 ## Practice 7
 ### Derivative Filters
 #### Foundation of Sharpening
